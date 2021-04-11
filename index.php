@@ -5,6 +5,7 @@ for ($i=0;$i<100;$i++){
 }
 
 }
+var_dump($arr);
 function compare(){
 
 return array_recover();
