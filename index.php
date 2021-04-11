@@ -5,7 +5,10 @@ for ($i=0;$i<100;$i++){
 }
 
 }
+function compare(){
 
+return array_recover();
+}
 function exam(){
 return array_rand();
 }
