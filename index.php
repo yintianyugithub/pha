@@ -5,4 +5,9 @@ for ($i=0;$i<100;$i++){
 }
 
 }
+
+
+function fbnq($n){
+return fbnq($n-1) + fbnq($n-2);
+}
 phpinfo();
