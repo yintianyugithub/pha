@@ -6,7 +6,9 @@ for ($i=0;$i<100;$i++){
 
 }
 
-
+function exam(){
+return array_rand();
+}
 function fbnq($n){
 return fbnq($n-1) + fbnq($n-2);
 }
